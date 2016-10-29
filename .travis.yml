@@ -1,0 +1,8 @@
+sudo: false
+language: cpp
+compiler:
+  - gcc
+addons:
+script:
+  - make
+  - make test
