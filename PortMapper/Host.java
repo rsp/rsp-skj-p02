@@ -1,3 +1,5 @@
+// PortMapper/Host by Rafał Pocztarski - https://pocztarski.com/
+
 class Host {
 
   String a;

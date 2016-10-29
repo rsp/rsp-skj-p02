@@ -1,3 +1,5 @@
+// PortMapperThread by Rafał Pocztarski - https://pocztarski.com/
+
 import java.io.*;
 import java.net.*;
 import java.util.Arrays;

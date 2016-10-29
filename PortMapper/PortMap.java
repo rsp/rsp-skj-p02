@@ -1,3 +1,5 @@
+// PortMapper/PortMap by Rafał Pocztarski - https://pocztarski.com/
+
 import java.util.HashMap;
 
 class PortMap {
