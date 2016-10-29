@@ -36,7 +36,8 @@ git clone https://github.com/rsp/rsp-skj-p02.git
 git clone https://gitlab.com/rsp/rsp-skj-p02.git
 ``
 Or download a zip file:
-https://github.com/rsp/rsp-skj-p02/archive/master.zip
+
+* https://github.com/rsp/rsp-skj-p02/archive/master.zip
 
 Usage
 -
