@@ -1,0 +1,12 @@
+image: java:openjdk-8-jdk
+
+build:
+  stage: build
+  script:
+    - make
+
+test:
+  stage: test
+  script:
+    - make test
+
