@@ -25,9 +25,9 @@ Usage
 -
 ```sh
 make
-cd SumServer && java SumServer
-cd SumClient && java SumClient
-cd PortMapper && java PortMapper
+cd SumServer; java SumServer
+cd SumClient; java SumClient
+cd PortMapper; java PortMapper
 ```
 
 Issues
