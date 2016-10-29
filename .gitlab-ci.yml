@@ -1,4 +1,4 @@
-image: java:openjdk-8-jdk
+image: gcc
 
 build:
   stage: build
