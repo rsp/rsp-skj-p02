@@ -9,7 +9,7 @@ Programs
 -
 * [**SumServer**](SumServer)
 * [**SumClient**](SumClient)
-* [**PortMapper**](PortMaper)
+* [**PortMapper**](PortMapper)
 
 Repos
 -
