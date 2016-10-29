@@ -21,6 +21,23 @@ Test Results
 * **Travis CI:** https://travis-ci.org/rsp/rsp-skj-p02 [![Travis CI Build Status][travis-img]][travis-url]
 * **GitLab CI:** https://gitlab.com/rsp/rsp-skj-p02/builds [![GitLab CI Build Status][gitlabci-img]][gitlabci-url] (private repo, ask for access)
 
+Download
+-
+Clone the repo from GitHub or GitLab via SSH:
+```sh
+git clone git@github.com:rsp/rsp-skj-p02.git
+# or:
+git clone git@gitlab.com:rsp/rsp-skj-p02.git
+```
+Or via HTTPS:
+```sh
+git clone https://github.com/rsp/rsp-skj-p02.git
+# or:
+git clone https://gitlab.com/rsp/rsp-skj-p02.git
+``
+Or download a zip file:
+https://github.com/rsp/rsp-skj-p02/archive/master.zip
+
 Usage
 -
 ```sh
